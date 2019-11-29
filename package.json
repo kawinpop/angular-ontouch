@@ -1,0 +1,21 @@
+{
+  "name": "angular-ontouch",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "main": "bundles/angular-ontouch.umd.js",
+  "module": "fesm5/angular-ontouch.js",
+  "es2015": "fesm2015/angular-ontouch.js",
+  "esm5": "esm5/angular-ontouch.js",
+  "esm2015": "esm2015/angular-ontouch.js",
+  "fesm5": "fesm5/angular-ontouch.js",
+  "fesm2015": "fesm2015/angular-ontouch.js",
+  "typings": "angular-ontouch.d.ts",
+  "metadata": "angular-ontouch.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
