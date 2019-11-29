@@ -17,9 +17,9 @@ npm i angular-ontouch
   ]
   ```
 
-  ### example
+### example
   example you can see  https://stackblitz.com/edit/angular-ontouch
 
- ### Demo
+### Demo
   if you want use touch event  please open website in your mobile or tablet
   https://angular-ontouch.stackblitz.io
